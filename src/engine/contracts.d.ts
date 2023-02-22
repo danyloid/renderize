@@ -1,0 +1,1 @@
+export type FC<T> = (props: T | null) => HTMLElement;
